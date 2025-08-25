@@ -19,9 +19,3 @@ gcc -std=c89 $filename -o target/$dirname/$basename
 
 ./target/$dirname/$basename
 ```
-
-## CLion IDE
-
-_or_ use CLion to open the subdirectory and run it via the IDE there.
-
-When creating a new project with CLion, create it as a C Executable with the C90 language standard.
